@@ -121,7 +121,7 @@ applications/<job-id>/
 |   |-- v001/
 |   |   |-- draft.json
 |   |   |-- claim-report.json
-|   |   |-- source.tex
+|   |   |-- source.tex or source.typ
 |   |   |-- final.pdf
 |   |   `-- qa.json
 |   `-- current.json
